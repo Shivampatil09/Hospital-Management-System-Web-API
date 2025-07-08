@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code dot solution\\C#\\Hospital_Managment_Application_Web_API\\HospitalManagementApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70485F94-3488-49E2-B42F-455B3551A7E6}|HospitalManagementApi\\HospitalManagementApi.csproj|d:\\code dot solution\\c#\\hospital_managment_application_web_api\\hospitalmanagementapi\\hospitalmanagementapi\\controllers\\clientregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70485F94-3488-49E2-B42F-455B3551A7E6}|HospitalManagementApi\\HospitalManagementApi.csproj|solutionrelative:hospitalmanagementapi\\controllers\\clientregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70485F94-3488-49E2-B42F-455B3551A7E6}|HospitalManagementApi\\HospitalManagementApi.csproj|d:\\code dot solution\\c#\\hospital_managment_application_web_api\\hospitalmanagementapi\\hospitalmanagementapi\\controllers\\materialtypeinfromation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70485F94-3488-49E2-B42F-455B3551A7E6}|HospitalManagementApi\\HospitalManagementApi.csproj|solutionrelative:hospitalmanagementapi\\controllers\\materialtypeinfromation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientRegistration.cs",
+              "DocumentMoniker": "D:\\Code dot solution\\C#\\Hospital_Managment_Application_Web_API\\HospitalManagementApi\\HospitalManagementApi\\Controllers\\ClientRegistration.cs",
+              "RelativeDocumentMoniker": "HospitalManagementApi\\Controllers\\ClientRegistration.cs",
+              "ToolTip": "D:\\Code dot solution\\C#\\Hospital_Managment_Application_Web_API\\HospitalManagementApi\\HospitalManagementApi\\Controllers\\ClientRegistration.cs",
+              "RelativeToolTip": "HospitalManagementApi\\Controllers\\ClientRegistration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:12:45.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaterialTypeInfromation.cs",
+              "DocumentMoniker": "D:\\Code dot solution\\C#\\Hospital_Managment_Application_Web_API\\HospitalManagementApi\\HospitalManagementApi\\Controllers\\MaterialTypeInfromation.cs",
+              "RelativeDocumentMoniker": "HospitalManagementApi\\Controllers\\MaterialTypeInfromation.cs",
+              "ToolTip": "D:\\Code dot solution\\C#\\Hospital_Managment_Application_Web_API\\HospitalManagementApi\\HospitalManagementApi\\Controllers\\MaterialTypeInfromation.cs",
+              "RelativeToolTip": "HospitalManagementApi\\Controllers\\MaterialTypeInfromation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:21:40.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

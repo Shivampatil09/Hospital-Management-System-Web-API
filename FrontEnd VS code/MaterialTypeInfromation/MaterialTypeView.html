@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <title>Material Type Information</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+          crossorigin="anonymous">
+    <script src="Script.js"></script>
+</head>
+
+<body>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group">
+                <label for="materialId">Material ID</label>
+                <input type="text"
+                       class="form-control"
+                       id="materialId"
+                       placeholder="Material ID">
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group">
+                <label for="materialType">Material Type</label>
+                <input type="text"
+                       class="form-control"
+                       id="materialType"
+                       placeholder="Material Type">
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="form-group">
+                <label for="globalID">Global ID</label>
+                <input type="text"
+                       class="form-control"
+                       id="globalID"
+                       placeholder="Global ID">
+            </div>
+        </div>
+    </div>
+    <button type="submit"
+            class="btn btn-outline-success mt-2"
+            onclick="materialTypeComponents()">Save</button>
+
+</body>
+
+</html>
